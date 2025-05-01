@@ -27,5 +27,4 @@
 6.  程式運行完畢後，會在同文件夾生成一張名為 `merged_output.png` 的長圖片。
 7.  檢查 `merged_output.png` 的效果。如果不滿意，**請先刪除 `merged_output.png`**，然後重新運行程式並嘗試不同的百分比數值。
 8.  最終效果會將圖片由舊到新、從上到下垂直拼接起來，除了最舊的圖片外，其餘圖片只保留底部指定百分比的區域。
-merged_output
    ![merged_output.png](merged_output.png)
