@@ -1,0 +1,14 @@
+# PyInstaller
+/build/
+/dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output file
+merged_output.png
+
+# VS Code settings
+.vscode/
